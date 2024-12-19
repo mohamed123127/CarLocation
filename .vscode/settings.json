@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib\\hamcrest-core-1.3.jar",
+        "lib\\jcommon-1.0.23.jar",
+        "lib\\jdatepicker-1.3.4.jar",
+        "lib\\jfreechart-1.0.19.jar",
+        "lib\\jfreechart-1.0.19-demo.jar",
+        "lib\\jfreechart-1.0.19-experimental.jar",
+        "lib\\jfreechart-1.0.19-swt.jar",
+        "lib\\jfreesvg-2.0.jar",
+        "lib\\junit-4.11.jar",
+        "lib\\mysql-connector-j-9.1.0.jar",
+        "lib\\orsoncharts-1.4-eval-nofx.jar",
+        "lib\\orsonpdf-1.6-eval.jar",
+        "lib\\servlet.jar",
+        "lib\\swtgraphics2d.jar",
+        "c:\\Users\\DELL\\Desktop\\tous\\University\\L3\\S5\\IHM\\Projet\\Project-Code\\CarLocation\\lib\\jfreechart-1.0.19-demo.jar",
+        "c:\\Users\\DELL\\Desktop\\tous\\University\\L3\\S5\\IHM\\Projet\\Project-Code\\CarLocation\\lib\\jdatepicker-1.3.4.jar",
+        "c:\\Users\\DELL\\Desktop\\tous\\University\\L3\\S5\\IHM\\Projet\\Project-Code\\CarLocation\\lib\\mysql-connector-j-9.1.0.jar"
+    ],
+}

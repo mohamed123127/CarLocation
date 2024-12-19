@@ -1,0 +1,61 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Gui.Client",
+            "projectName": "CarLocation_92ad6f6b"
+        },
+        {
+            "type": "java",
+            "name": "AddCar",
+            "request": "launch",
+            "mainClass": "Gui.AddCar",
+            "projectName": "CarLocation_92ad6f6b"
+        },
+        {
+            "type": "java",
+            "name": "Statistiques",
+            "request": "launch",
+            "mainClass": "Statistiques",
+            "projectName": "CarLocation_92ad6f6b"
+        },
+        {
+            "type": "java",
+            "name": "ComboBoxStyle1",
+            "request": "launch",
+            "mainClass": "CustomControle.ComboBoxStyle1",
+            "projectName": "CarLocation_92ad6f6b"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "CarLocation_92ad6f6b"
+        },
+        {
+            "type": "java",
+            "name": "Locations",
+            "request": "launch",
+            "mainClass": "Gui.Locations",
+            "projectName": "CarLocation_92ad6f6b"
+        },
+        {
+            "type": "java",
+            "name": "MainPage",
+            "request": "launch",
+            "mainClass": "Gui.MainPage",
+            "projectName": "CarLocation_92ad6f6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Gui.Statistiques",
+            "java.commandLineArgs": "-cp ./libs/*"
+        }
+    ]
+}
